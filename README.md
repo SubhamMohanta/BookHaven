@@ -1,1 +1,6 @@
-<h1 style={text-align: center}>HI</h1>
+<h1 id="xyz">HI</h1>
+<style>
+  #xyz{
+      text-align: center;
+    }
+</style>
